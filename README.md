@@ -4,11 +4,11 @@ Sistema de gestão acadêmica para Ensino Fundamental e Ensino Médio.
 
 ## Estrutura
 
-- rontend/: interface do usuário em React e TypeScript.
-- ackend/: API REST em Java com Spring Boot.
+- Frontend/: interface do usuário em React e TypeScript.
+- Backend/: API REST em Java com Spring Boot.
 - docs/: documentação do projeto.
-- ssets/: imagens e outros recursos.
-- 	ests/: testes complementares.
+- assets/: imagens e outros recursos.
+- tests/: testes complementares.
 
 ## Tecnologias
 
